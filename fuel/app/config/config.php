@@ -129,7 +129,7 @@ return array(
         'csrf_autoload'     => true,
         'csrf_token_key'    => 'endo_csrf_token',
 		'csrf_expiration'   => 3600,
-        'token_salt' => '!=-?Pb7H@o3pXGY6nT-DV<|qI@fAdi*cH0q>Xq&]g@K6ik5/o]ouf$|vjjSSqMo{'
+        'token_salt' => '=== SALT ==='
     ),
     
 	//'security' => array(

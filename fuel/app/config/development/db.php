@@ -6,9 +6,9 @@
 return array(
 	'default' => array(
 		'connection'  => array(
-			'dsn'        => 'mysql:host=localhost;dbname=tboom_dev_fuel',
-			'username'   => 'root',
-			'password'   => '',
+			'dsn'        => 'mysql:host=HOST;dbname=DB',
+			'username'   => 'username',
+			'password'   => 'password',
 		),
 	),
 );

@@ -5,14 +5,14 @@ return array(
         'useragent' => 'FuelPHP, PHP 5.3 Framework',
         'driver'    => 'smtp',
         'from' => array(
-			'email' => 'dev@tboom.net',
-			'name'  => 'Tboom',
+			'email' => 'example@example.com',
+			'name'  => 'Name',
 		),
         'smtp' => array(
-			'host'		=> 'smtp.tboom.net',
+			'host'		=> 'HOST',
 			'port'		=> 587,
-			'username'	=> 'dev@tboom.net',
-			'password'	=> 'tboomdev_1342',
+			'username'	=> 'example@example.com',
+			'password'	=> 'password',
 			'timeout'	=> 30,
 		)
     )

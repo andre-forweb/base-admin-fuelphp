@@ -125,7 +125,7 @@ return array(
 	/**
 	 * Salt for the login hash
 	 */
-	'login_hash_salt' => '}E&`3HRBBW:4<+Md~4UjPF0Jxn YebXXwZFS[~VY-|CW8?F_l6_Or{!;#,zO>H:e',
+	'login_hash_salt' => '=== SALT ===',
 
 	/**
 	 * $_POST key for login username
