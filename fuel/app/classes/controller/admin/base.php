@@ -13,7 +13,7 @@ class Admin_Base extends \Controller
 		);
 		
 		\Asset::remove_path('assets/css/', 'css');
-		\Asset::remove_path('assets/js/', 'css');
+		\Asset::remove_path('assets/js/', 'js');
 		\Asset::add_path('assets/css/admin/', 'css');
 		\Asset::add_path('assets/js/admin/', 'js');
 		\Asset::add_path('assets/img/admin/', 'img');
